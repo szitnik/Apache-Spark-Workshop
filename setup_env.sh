@@ -9,8 +9,12 @@ python3 -m venv workshop-env
 source ./workshop-env/bin/activate
 pip install -r requirements.txt
 
+
+echo "Please run the following 2 statements in your console:"
+echo "
 export PYSPARK_PYTHON="$PWD/workshop-env/bin/python"
 export PYSPARK_DRIVER_PYTHON="$PWD/workshop-env/bin/python"
+"
 
 # handle Spark installation
 if [ -n "${DOWNLOAD_SPARK}" ]
@@ -23,4 +27,5 @@ then
   curl -O https://www.apache.si/spark/spark-$SPARK_VERSION/$SPARK_FNAME
   tar xzf ./$SPARK_FNAME
 fi
+
 

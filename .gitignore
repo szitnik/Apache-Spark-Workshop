@@ -265,4 +265,6 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 
+workshop-env/
+
 # End of https://www.toptal.com/developers/gitignore/api/python,virtualenv,pycharm,visualstudiocode
