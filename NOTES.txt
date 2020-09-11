@@ -1,0 +1,19 @@
+# Zagon skripte
+sbatch spark-slurm.sh
+
+# Preverba stanja
+sacct -j JOB_ID
+
+# Prikaz svojih nalog
+squeue -u campus02
+
+# Prikaz vseh nalog in podrobnosti/ene naloge
+scontrol show job [JOB_ID]
+
+# Preklic izvajanja
+scancel JOB_ID
+
+# Uporabne povezave
+https://researchcomputing.princeton.edu/faq/spark-via-slurm (pregled izvajanja kot history)
+https://info.gwdg.de/wiki/doku.php?id=wiki:hpc:slurm_sbatch_script_for_spark_applications
+https://info.gwdg.de/wiki/doku.php?id=wiki:hpc:apache_spark
