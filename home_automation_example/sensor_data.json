@@ -1,0 +1,2935 @@
+[
+  {
+    "id": "temp1",
+    "location": "living_room",
+    "data": [
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      }
+    ]
+  },
+  {
+    "id": "temp2",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      }
+    ]
+  },
+  {
+    "id": "temp3",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      },
+      {
+        "unit": "celsius",
+        "type": "temperature",
+        "measurement": 0
+      }
+    ]
+  },
+  {
+    "id": "weather1",
+    "location": "living_room",
+    "data": [
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      }
+    ]
+  },
+  {
+    "id": "weather2",
+    "location": "bathroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      }
+    ]
+  },
+  {
+    "id": "weather3",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "humidity",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "mbar",
+        "type": "pressure",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      },
+      {
+        "unit": "lux",
+        "type": "light",
+        "measurement": 0
+      }
+    ]
+  },
+  {
+    "id": "contact1",
+    "location": "balcony",
+    "data": []
+  },
+  {
+    "id": "contact2",
+    "location": "hallway",
+    "data": []
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      }
+    ]
+  },
+  {
+    "id": "air2",
+    "location": "living_room",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      },
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 0
+      }
+    ]
+  }
+]
