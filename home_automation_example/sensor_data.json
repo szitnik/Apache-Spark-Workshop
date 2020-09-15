@@ -6,22 +6,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.0
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.0
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.306450894108742
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.306450894108742
       }
     ],
     "timestamp": 1598914800.0
@@ -33,22 +33,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.40919186898499
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.40919186898499
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.734226138265914
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.101551140077937
       }
     ],
     "timestamp": 1598914800.0
@@ -60,22 +60,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.559873825505587
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.529182900551064
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.244830667120624
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.520117305618516
       }
     ],
     "timestamp": 1598914800.0
@@ -87,17 +87,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 50.0
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 119.46228931718142
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.0
       }
     ],
     "timestamp": 1598914800.0
@@ -109,17 +109,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 20.0
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 119.33799695046345
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.434638789790336
       }
     ],
     "timestamp": 1598914800.0
@@ -131,17 +131,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 50.72367756693078
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.35637245325312
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.0
       }
     ],
     "timestamp": 1598914800.0
@@ -149,35 +149,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598914800.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598914800.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.86265669366672
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.638447845509134
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.638447845509134
       }
     ],
     "timestamp": 1598914800.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.45130734723357
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.1309746072202
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.88265013849015
+      }
+    ],
+    "timestamp": 1598914800.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.0
+      }
+    ],
+    "timestamp": 1598914800.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.657939619548223
       }
     ],
     "timestamp": 1598914800.0
@@ -189,22 +221,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.306450894108742
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.306450894108742
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.451980344860807
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.451980344860807
       }
     ],
     "timestamp": 1598918400.0
@@ -216,22 +248,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.101551140077937
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.230839356679297
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.230839356679297
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.270866464204488
       }
     ],
     "timestamp": 1598918400.0
@@ -243,22 +275,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.86873759796891
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.453635709264212
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.636688172198674
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.166813417242707
       }
     ],
     "timestamp": 1598918400.0
@@ -270,17 +302,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 50.0
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.89208762018727
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.0
       }
     ],
     "timestamp": 1598918400.0
@@ -292,17 +324,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.052194325399665
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 119.33799695046345
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.434638789790336
       }
     ],
     "timestamp": 1598918400.0
@@ -314,17 +346,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 50.66250228240414
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.35637245325312
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.0
       }
     ],
     "timestamp": 1598918400.0
@@ -332,35 +364,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598918400.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598918400.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.92934242832085
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.79094687337377
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.25917031235228
       }
     ],
     "timestamp": 1598918400.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.82855067055657
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.82855067055657
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.11993335923256
+      }
+    ],
+    "timestamp": 1598918400.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 19.423235424350146
+      }
+    ],
+    "timestamp": 1598918400.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 8.998584911596362
       }
     ],
     "timestamp": 1598918400.0
@@ -372,22 +436,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.65671006736258
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.65671006736258
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.43305870238256
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.57377342074348
       }
     ],
     "timestamp": 1598922000.0
@@ -399,22 +463,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.270866464204488
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.711459169457534
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.140579052504727
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.140579052504727
       }
     ],
     "timestamp": 1598922000.0
@@ -426,22 +490,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.716167588115976
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.716167588115976
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.176381529592177
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.176381529592177
       }
     ],
     "timestamp": 1598922000.0
@@ -453,17 +517,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 49.84264950576753
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.73507489943138
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.7705311221023784
       }
     ],
     "timestamp": 1598922000.0
@@ -475,17 +539,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.080197803434157
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 119.35770428860546
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.434638789790336
       }
     ],
     "timestamp": 1598922000.0
@@ -497,17 +561,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 51.30072063051366
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.3470366136596
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.0
       }
     ],
     "timestamp": 1598922000.0
@@ -515,35 +579,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598922000.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598922000.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.25917031235228
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.04351301253453
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.20728883040726
       }
     ],
     "timestamp": 1598922000.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.11993335923256
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.80697105559302
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.80697105559302
+      }
+    ],
+    "timestamp": 1598922000.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.422886959111075
+      }
+    ],
+    "timestamp": 1598922000.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 8.349231461152096
       }
     ],
     "timestamp": 1598922000.0
@@ -555,22 +651,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.57377342074348
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.044313557326657
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.250175361299846
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.20288908777204
       }
     ],
     "timestamp": 1598925600.0
@@ -582,22 +678,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.278649446510137
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.50683498218097
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.73256347117814
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.73256347117814
       }
     ],
     "timestamp": 1598925600.0
@@ -609,22 +705,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.374980070246295
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.967031086963228
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.384403263884828
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.36338263727433
       }
     ],
     "timestamp": 1598925600.0
@@ -636,17 +732,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 49.84264950576753
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.82814680799008
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.7705311221023784
       }
     ],
     "timestamp": 1598925600.0
@@ -658,17 +754,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.62346820095383
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.61463106489973
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.0202152037659653
       }
     ],
     "timestamp": 1598925600.0
@@ -680,17 +776,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 50.53508938455904
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.3470366136596
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.6336509655022484
       }
     ],
     "timestamp": 1598925600.0
@@ -698,35 +794,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598925600.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598925600.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.386064793699205
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.386064793699205
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.80348047445416
       }
     ],
     "timestamp": 1598925600.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.80697105559302
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.80697105559302
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.058505491823
+      }
+    ],
+    "timestamp": 1598925600.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.685847282599177
+      }
+    ],
+    "timestamp": 1598925600.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 7.6144158427232185
       }
     ],
     "timestamp": 1598925600.0
@@ -738,22 +866,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.884490315339857
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.85097812462502
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.495050951970814
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.495050951970814
       }
     ],
     "timestamp": 1598929200.0
@@ -765,22 +893,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.20590445475528
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.42829303969323
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.109183383204606
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.73448882077976
       }
     ],
     "timestamp": 1598929200.0
@@ -792,22 +920,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.490896232214812
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.658740021304954
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.644902336923156
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.935014848422952
       }
     ],
     "timestamp": 1598929200.0
@@ -819,17 +947,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 49.218185341208965
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.83274732801212
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5599878433735668
       }
     ],
     "timestamp": 1598929200.0
@@ -841,17 +969,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.909720994475776
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.61463106489973
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.5438013689538044
       }
     ],
     "timestamp": 1598929200.0
@@ -863,17 +991,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 50.53508938455904
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.3470366136596
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.004723567226284753
       }
     ],
     "timestamp": 1598929200.0
@@ -881,35 +1009,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598929200.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598929200.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.80348047445416
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.80348047445416
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.73288749423689
       }
     ],
     "timestamp": 1598929200.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 118.62645232307156
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.11164524330286
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.11164524330286
+      }
+    ],
+    "timestamp": 1598929200.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.293388530000282
+      }
+    ],
+    "timestamp": 1598929200.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 8.161518677642446
       }
     ],
     "timestamp": 1598929200.0
@@ -921,22 +1081,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.495050951970814
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.365633841494382
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.821269947477965
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.821269947477965
       }
     ],
     "timestamp": 1598932800.0
@@ -948,22 +1108,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.73448882077976
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.894271504582775
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.878923558251856
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.081162883387485
       }
     ],
     "timestamp": 1598932800.0
@@ -975,22 +1135,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.645205150334448
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.645205150334448
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.645205150334448
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.80925320487687
       }
     ],
     "timestamp": 1598932800.0
@@ -1002,17 +1162,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 48.55358741750726
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.72325331018503
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.631903587453516
       }
     ],
     "timestamp": 1598932800.0
@@ -1024,17 +1184,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.24941256089879
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.61463106489973
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.8846514613963657
       }
     ],
     "timestamp": 1598932800.0
@@ -1046,17 +1206,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 51.00432398846904
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.89705930938236
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.7563375108820356
       }
     ],
     "timestamp": 1598932800.0
@@ -1064,35 +1224,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598932800.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598932800.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.73288749423689
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.73288749423689
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.14616701341549
       }
     ],
     "timestamp": 1598932800.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.11164524330286
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.05279255615531
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.75912755027004
+      }
+    ],
+    "timestamp": 1598932800.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.453246794217257
+      }
+    ],
+    "timestamp": 1598932800.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 7.857855871024006
       }
     ],
     "timestamp": 1598932800.0
@@ -1104,22 +1296,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.58295638386456
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.172294366982975
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.172294366982975
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.172294366982975
       }
     ],
     "timestamp": 1598936400.0
@@ -1131,22 +1323,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.081162883387485
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.081162883387485
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.231324046119003
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.338291253469844
       }
     ],
     "timestamp": 1598936400.0
@@ -1158,22 +1350,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.80925320487687
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.424026670725524
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.424026670725524
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.66120789638615
       }
     ],
     "timestamp": 1598936400.0
@@ -1185,17 +1377,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 48.55358741750726
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.63363178060465
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.625801361636515
       }
     ],
     "timestamp": 1598936400.0
@@ -1207,17 +1399,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.010403502211002
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.61463106489973
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.2817455658231114
       }
     ],
     "timestamp": 1598936400.0
@@ -1229,17 +1421,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 50.981813891685086
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.68593834621808
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.28160490982182274
       }
     ],
     "timestamp": 1598936400.0
@@ -1247,35 +1439,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598936400.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598936400.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.71350447321479
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.104221972715905
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.385496427649365
       }
     ],
     "timestamp": 1598936400.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.94190493490794
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 119.94190493490794
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.89099650352375
+      }
+    ],
+    "timestamp": 1598936400.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 21.45199309161309
+      }
+    ],
+    "timestamp": 1598936400.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 7.857855871024006
       }
     ],
     "timestamp": 1598936400.0
@@ -1287,22 +1511,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.172294366982975
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.59028470730407
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.59028470730407
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.452076061729933
       }
     ],
     "timestamp": 1598940000.0
@@ -1314,22 +1538,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.338291253469844
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.338291253469844
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.247679664576534
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.47633522939263
       }
     ],
     "timestamp": 1598940000.0
@@ -1341,22 +1565,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.66120789638615
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.66120789638615
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.66120789638615
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.66120789638615
       }
     ],
     "timestamp": 1598940000.0
@@ -1368,17 +1592,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 47.90785590557113
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.63363178060465
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.6989691784314892
       }
     ],
     "timestamp": 1598940000.0
@@ -1390,17 +1614,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.010403502211002
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.6200320134365
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.2817455658231114
       }
     ],
     "timestamp": 1598940000.0
@@ -1412,17 +1636,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 51.48259131901731
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.87622745480047
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.256629829007358
       }
     ],
     "timestamp": 1598940000.0
@@ -1430,35 +1654,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598940000.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598940000.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.385496427649365
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.84579330116249
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.84579330116249
       }
     ],
     "timestamp": 1598940000.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.6446647108789
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.6446647108789
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.50263690623447
+      }
+    ],
+    "timestamp": 1598940000.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 21.265346386884648
+      }
+    ],
+    "timestamp": 1598940000.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 8.661373232326557
       }
     ],
     "timestamp": 1598940000.0
@@ -1470,22 +1726,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.270184247323634
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.692742001760287
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.166771484931708
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.166771484931708
       }
     ],
     "timestamp": 1598943600.0
@@ -1497,22 +1753,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.47633522939263
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.486077070252826
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.53004252716385
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.53004252716385
       }
     ],
     "timestamp": 1598943600.0
@@ -1524,22 +1780,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.66120789638615
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.432610569744437
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.432610569744437
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.432610569744437
       }
     ],
     "timestamp": 1598943600.0
@@ -1551,17 +1807,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 47.90785590557113
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.63363178060465
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.6989691784314892
       }
     ],
     "timestamp": 1598943600.0
@@ -1573,17 +1829,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.010403502211002
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.6200320134365
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.7574403875561488
       }
     ],
     "timestamp": 1598943600.0
@@ -1595,17 +1851,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 51.48259131901731
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.54973803139403
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.4741099938985195
       }
     ],
     "timestamp": 1598943600.0
@@ -1613,35 +1869,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598943600.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598943600.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.84579330116249
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 61.44677551617026
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.53417024997304
       }
     ],
     "timestamp": 1598943600.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.01732575787716
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.22195733006369
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.09486365382124
+      }
+    ],
+    "timestamp": 1598943600.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 21.265346386884648
+      }
+    ],
+    "timestamp": 1598943600.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.06178028528901
       }
     ],
     "timestamp": 1598943600.0
@@ -1653,22 +1941,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.166771484931708
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.300201522399828
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.531360783565628
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.531360783565628
       }
     ],
     "timestamp": 1598947200.0
@@ -1680,22 +1968,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.05172080100656
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.367513854050443
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.001589325990608
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.439893955060775
       }
     ],
     "timestamp": 1598947200.0
@@ -1707,22 +1995,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.432610569744437
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.432610569744437
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.098911324307323
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.098911324307323
       }
     ],
     "timestamp": 1598947200.0
@@ -1734,17 +2022,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 47.90785590557113
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.63363178060465
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.569824680565136
       }
     ],
     "timestamp": 1598947200.0
@@ -1756,17 +2044,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.010403502211002
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.53486043189667
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5830379321721662
       }
     ],
     "timestamp": 1598947200.0
@@ -1778,17 +2066,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.192255728564696
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.54973803139403
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.4139623242050626
       }
     ],
     "timestamp": 1598947200.0
@@ -1796,35 +2084,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598947200.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598947200.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.53417024997304
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.77583322587947
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.01805508872473
       }
     ],
     "timestamp": 1598947200.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.09486365382124
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.62705335465157
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.39085970549662
+      }
+    ],
+    "timestamp": 1598947200.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.572950070071958
+      }
+    ],
+    "timestamp": 1598947200.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.914938432270752
       }
     ],
     "timestamp": 1598947200.0
@@ -1836,22 +2156,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.795070735894328
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.795070735894328
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.438773259632132
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.438773259632132
       }
     ],
     "timestamp": 1598950800.0
@@ -1863,22 +2183,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.87698779719158
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.87698779719158
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.87698779719158
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.585359871907066
       }
     ],
     "timestamp": 1598950800.0
@@ -1890,22 +2210,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.098911324307323
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.39119229380086
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.818082350275283
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.727230514561246
       }
     ],
     "timestamp": 1598950800.0
@@ -1917,17 +2237,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 47.11396375742462
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.29312927418022
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.569824680565136
       }
     ],
     "timestamp": 1598950800.0
@@ -1939,17 +2259,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 17.063096402292533
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.64904905905668
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5362247698696805
       }
     ],
     "timestamp": 1598950800.0
@@ -1961,17 +2281,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 53.16672739516434
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.54973803139403
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.4003740884575552
       }
     ],
     "timestamp": 1598950800.0
@@ -1979,35 +2299,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598950800.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598950800.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.8314984839872
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.86272018519966
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.86272018519966
       }
     ],
     "timestamp": 1598950800.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.39085970549662
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.24742619366641
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.0113208029876
+      }
+    ],
+    "timestamp": 1598950800.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.572950070071958
+      }
+    ],
+    "timestamp": 1598950800.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.914938432270752
       }
     ],
     "timestamp": 1598950800.0
@@ -2019,22 +2371,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.8389112715795
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.8389112715795
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.67725324696609
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.67725324696609
       }
     ],
     "timestamp": 1598954400.0
@@ -2046,22 +2398,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.585359871907066
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.585359871907066
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.585359871907066
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.11574802743782
       }
     ],
     "timestamp": 1598954400.0
@@ -2073,22 +2425,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.379603498401796
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.868226524164665
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.868226524164665
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.868226524164665
       }
     ],
     "timestamp": 1598954400.0
@@ -2100,17 +2452,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 47.11396375742462
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.39312008618792
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -2.0988164593516423
       }
     ],
     "timestamp": 1598954400.0
@@ -2122,17 +2474,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 17.940016674991867
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.09212946433898
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5362247698696805
       }
     ],
     "timestamp": 1598954400.0
@@ -2144,17 +2496,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 53.81973977467833
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.7281550662822
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.45315194974323336
       }
     ],
     "timestamp": 1598954400.0
@@ -2162,35 +2514,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598954400.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598954400.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.86272018519966
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.18637675186267
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.85685227361555
       }
     ],
     "timestamp": 1598954400.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.0113208029876
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.67871835016675
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.06661394370613
+      }
+    ],
+    "timestamp": 1598954400.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.23875967907954
+      }
+    ],
+    "timestamp": 1598954400.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.914938432270752
       }
     ],
     "timestamp": 1598954400.0
@@ -2202,22 +2586,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.060013277621007
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.060013277621007
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.026153691606922
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.265487826511958
       }
     ],
     "timestamp": 1598958000.0
@@ -2229,22 +2613,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.24294341529737
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.24294341529737
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.943744275483084
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.200814042911528
       }
     ],
     "timestamp": 1598958000.0
@@ -2256,22 +2640,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.868226524164665
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.399774511510675
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.889544409394805
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.889544409394805
       }
     ],
     "timestamp": 1598958000.0
@@ -2283,17 +2667,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.53531951499197
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.39312008618792
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -2.0988164593516423
       }
     ],
     "timestamp": 1598958000.0
@@ -2305,17 +2689,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 17.940016674991867
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.9652637808886
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.463966840598979
       }
     ],
     "timestamp": 1598958000.0
@@ -2327,17 +2711,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 53.173159400002845
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.3882235290947
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.45315194974323336
       }
     ],
     "timestamp": 1598958000.0
@@ -2345,35 +2729,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598958000.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598958000.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.204729627966294
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.204729627966294
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.30450388959932
       }
     ],
     "timestamp": 1598958000.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.34492479996855
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.34492479996855
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.49443540100283
+      }
+    ],
+    "timestamp": 1598958000.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 20.23875967907954
+      }
+    ],
+    "timestamp": 1598958000.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.515522117247812
       }
     ],
     "timestamp": 1598958000.0
@@ -2385,22 +2801,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.504530345667515
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.931361157155422
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.38906193289921
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.38906193289921
       }
     ],
     "timestamp": 1598961600.0
@@ -2412,22 +2828,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.200814042911528
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.189386152065342
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.207611290910574
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.286966320017658
       }
     ],
     "timestamp": 1598961600.0
@@ -2439,22 +2855,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.889544409394805
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.889544409394805
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.889544409394805
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.08108879175633
       }
     ],
     "timestamp": 1598961600.0
@@ -2466,17 +2882,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.3444055288279
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.76662260828586
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -2.0988164593516423
       }
     ],
     "timestamp": 1598961600.0
@@ -2488,17 +2904,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.539775898529967
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.37619794760201
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.4548000982394331
       }
     ],
     "timestamp": 1598961600.0
@@ -2510,17 +2926,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 53.173159400002845
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.3882235290947
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.45315194974323336
       }
     ],
     "timestamp": 1598961600.0
@@ -2528,35 +2944,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598961600.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598961600.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.17605170829363
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.17605170829363
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.17605170829363
       }
     ],
     "timestamp": 1598961600.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.70223400474015
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.70223400474015
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.89980748669197
+      }
+    ],
+    "timestamp": 1598961600.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 19.826411257336733
+      }
+    ],
+    "timestamp": 1598961600.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.900434525415543
       }
     ],
     "timestamp": 1598961600.0
@@ -2568,22 +3016,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 15.619292357170886
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 15.619292357170886
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 15.326934131208263
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 15.821219685399667
       }
     ],
     "timestamp": 1598965200.0
@@ -2595,22 +3043,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.960339498744393
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.960339498744393
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.960339498744393
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.043410948592104
       }
     ],
     "timestamp": 1598965200.0
@@ -2622,22 +3070,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.542669000361315
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.542669000361315
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.542669000361315
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.535026141301888
       }
     ],
     "timestamp": 1598965200.0
@@ -2649,17 +3097,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 45.76759771724598
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.76662260828586
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -2.0988164593516423
       }
     ],
     "timestamp": 1598965200.0
@@ -2671,17 +3119,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.539775898529967
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.37619794760201
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.2037547127043258
       }
     ],
     "timestamp": 1598965200.0
@@ -2693,17 +3141,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 53.72690324530565
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.9407300576054
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.8450735594556781
       }
     ],
     "timestamp": 1598965200.0
@@ -2711,35 +3159,67 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
-    "timestamp": 1598965200.0
-  },
-  {
-    "id": "contact2",
-    "location": "hallway",
-    "data": [],
-    "timestamp": 1598965200.0
-  },
-  {
-    "id": "air1",
-    "location": "master_bedroom",
     "data": [
       {
-        "unit": "%",
-        "type": "eaqi",
-        "measurement": 0
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.17605170829363
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.192416419225744
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.8163471444118
       }
     ],
     "timestamp": 1598965200.0
   },
   {
+    "id": "contact2",
+    "location": "hallway",
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 120.59783243450401
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.30199050585843
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.30199050585843
+      }
+    ],
+    "timestamp": 1598965200.0
+  },
+  {
+    "id": "air1",
+    "location": "master_bedroom",
+    "data": [
+      {
+        "unit": "%",
+        "type": "eaqi",
+        "measurement": 19.410533493125172
+      }
+    ],
+    "timestamp": 1598965200.0
+  },
+  {
     "id": "air2",
     "location": "living_room",
     "data": [
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.718346959843622
       }
     ],
     "timestamp": 1598965200.0
@@ -2751,22 +3231,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 15.821219685399667
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 15.821219685399667
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.543254200467043
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.484384774539944
       }
     ],
     "timestamp": 1598968800.0
@@ -2778,22 +3258,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.043410948592104
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.822400392283654
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.822400392283654
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.822400392283654
       }
     ],
     "timestamp": 1598968800.0
@@ -2805,22 +3285,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.349540115737803
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.940636652091026
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.487317872133957
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.349760050692858
       }
     ],
     "timestamp": 1598968800.0
@@ -2832,17 +3312,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 45.76759771724598
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.20024663591441
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5316364923376478
       }
     ],
     "timestamp": 1598968800.0
@@ -2854,17 +3334,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.813514099651407
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.37619794760201
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.2037547127043258
       }
     ],
     "timestamp": 1598968800.0
@@ -2876,17 +3356,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 53.72690324530565
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.9407300576054
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.4620786082146854
       }
     ],
     "timestamp": 1598968800.0
@@ -2894,13 +3374,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.393841074489
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.716024746525015
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.388212423119214
+      }
+    ],
     "timestamp": 1598968800.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.88084736234492
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 121.88084736234492
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.52087861584957
+      }
+    ],
     "timestamp": 1598968800.0
   },
   {
@@ -2910,7 +3422,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 18.859394784095784
       }
     ],
     "timestamp": 1598968800.0
@@ -2922,7 +3434,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 10.275196148754484
       }
     ],
     "timestamp": 1598968800.0
@@ -2934,22 +3446,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.027925238348423
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.276205390780728
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.36298155372119
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.36298155372119
       }
     ],
     "timestamp": 1598972400.0
@@ -2961,22 +3473,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.822400392283654
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.822400392283654
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.822400392283654
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.56815593296601
       }
     ],
     "timestamp": 1598972400.0
@@ -2988,22 +3500,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.46992924539278
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.88009610472436
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.148972579207022
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.947215413259077
       }
     ],
     "timestamp": 1598972400.0
@@ -3015,17 +3527,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.35084866827727
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.20024663591441
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.867201244652923
       }
     ],
     "timestamp": 1598972400.0
@@ -3037,17 +3549,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.813514099651407
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 117.51132146521834
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.1386251422539955
       }
     ],
     "timestamp": 1598972400.0
@@ -3059,17 +3571,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 53.17375396843349
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.7394665951937
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.5259113192791947
       }
     ],
     "timestamp": 1598972400.0
@@ -3077,13 +3589,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.77632987388397
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.77632987388397
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.77632987388397
+      }
+    ],
     "timestamp": 1598972400.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.20450759525792
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.76175817766836
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.91720482091678
+      }
+    ],
     "timestamp": 1598972400.0
   },
   {
@@ -3093,7 +3637,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 18.358438784686154
       }
     ],
     "timestamp": 1598972400.0
@@ -3105,7 +3649,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 10.047357022434284
       }
     ],
     "timestamp": 1598972400.0
@@ -3117,22 +3661,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.36298155372119
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.36298155372119
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.7501611755019
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.65841716142446
       }
     ],
     "timestamp": 1598976000.0
@@ -3144,22 +3688,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.322887676601457
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.74162237994274
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.74162237994274
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.74162237994274
       }
     ],
     "timestamp": 1598976000.0
@@ -3171,22 +3715,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.4874530279178
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.22138182361705
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.714711489400898
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.714711489400898
       }
     ],
     "timestamp": 1598976000.0
@@ -3198,17 +3742,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.35084866827727
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.20024663591441
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.485422179194159
       }
     ],
     "timestamp": 1598976000.0
@@ -3220,17 +3764,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 18.339575637829917
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.59957703193575
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.7169263723737211
       }
     ],
     "timestamp": 1598976000.0
@@ -3242,17 +3786,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.61230728131637
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.7394665951937
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.4392287966418965
       }
     ],
     "timestamp": 1598976000.0
@@ -3260,13 +3804,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.97031497841101
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.56685446586276
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.29513125593468
+      }
+    ],
     "timestamp": 1598976000.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 123.35634047855307
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 123.28442249809068
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 123.28442249809068
+      }
+    ],
     "timestamp": 1598976000.0
   },
   {
@@ -3276,7 +3852,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 18.33941240075222
       }
     ],
     "timestamp": 1598976000.0
@@ -3288,7 +3864,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 10.047357022434284
       }
     ],
     "timestamp": 1598976000.0
@@ -3300,22 +3876,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.43043767796377
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.37441200114604
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.37441200114604
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.37441200114604
       }
     ],
     "timestamp": 1598979600.0
@@ -3327,22 +3903,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.74162237994274
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.208783750913504
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.927139650757404
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.1571388443193
       }
     ],
     "timestamp": 1598979600.0
@@ -3354,22 +3930,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.431767961543986
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.756047710672878
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.0837954639474
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.3745995089197
       }
     ],
     "timestamp": 1598979600.0
@@ -3381,17 +3957,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.063629163805075
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.20024663591441
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.0252409809872476
       }
     ],
     "timestamp": 1598979600.0
@@ -3403,17 +3979,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.055877592480094
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.69260774930623
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.523243558431894
       }
     ],
     "timestamp": 1598979600.0
@@ -3425,17 +4001,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.61230728131637
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 100.49656240324529
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.4392287966418965
       }
     ],
     "timestamp": 1598979600.0
@@ -3443,13 +4019,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 60.318590916278964
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 59.5669541033694
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.90858970985696
+      }
+    ],
     "timestamp": 1598979600.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 123.28442249809068
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 123.28442249809068
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.70608613249833
+      }
+    ],
     "timestamp": 1598979600.0
   },
   {
@@ -3459,7 +4067,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 19.320159043581377
       }
     ],
     "timestamp": 1598979600.0
@@ -3471,7 +4079,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 10.725966512842522
       }
     ],
     "timestamp": 1598979600.0
@@ -3483,22 +4091,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.618784333462155
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.618784333462155
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.618784333462155
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.564021260529042
       }
     ],
     "timestamp": 1598983200.0
@@ -3510,22 +4118,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.22444220458279
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.834692851528487
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.57659395632231
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.220273961179053
       }
     ],
     "timestamp": 1598983200.0
@@ -3537,22 +4145,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.270332517750113
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.270332517750113
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.678733616102235
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.678733616102235
       }
     ],
     "timestamp": 1598983200.0
@@ -3564,17 +4172,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.32801052547703
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.81302059986933
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.5625814465918041
       }
     ],
     "timestamp": 1598983200.0
@@ -3586,17 +4194,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.055877592480094
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 116.12361128873988
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.523243558431894
       }
     ],
     "timestamp": 1598983200.0
@@ -3608,17 +4216,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.76191287823211
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.76409668699247
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.3962838683134011
       }
     ],
     "timestamp": 1598983200.0
@@ -3626,13 +4234,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.777570633653575
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.550199202816906
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.550199202816906
+      }
+    ],
     "timestamp": 1598983200.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.70608613249833
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.17146127361428
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.17146127361428
+      }
+    ],
     "timestamp": 1598983200.0
   },
   {
@@ -3642,7 +4282,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 19.320159043581377
       }
     ],
     "timestamp": 1598983200.0
@@ -3654,7 +4294,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 10.191151987191578
       }
     ],
     "timestamp": 1598983200.0
@@ -3666,22 +4306,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.01123416339319
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.430027780455568
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 20.254836139005874
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.358614973037994
       }
     ],
     "timestamp": 1598986800.0
@@ -3693,22 +4333,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.928155279470694
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.928155279470694
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.647952249177028
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.647952249177028
       }
     ],
     "timestamp": 1598986800.0
@@ -3720,22 +4360,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.14179606493803
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.71807906839862
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.71807906839862
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.940231856969262
       }
     ],
     "timestamp": 1598986800.0
@@ -3747,17 +4387,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.32801052547703
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.99738311458847
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.2520250713074006
       }
     ],
     "timestamp": 1598986800.0
@@ -3769,17 +4409,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.055877592480094
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 115.70089951751793
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.1854466027798087
       }
     ],
     "timestamp": 1598986800.0
@@ -3791,17 +4431,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.76191287823211
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.76409668699247
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.3962838683134011
       }
     ],
     "timestamp": 1598986800.0
@@ -3809,13 +4449,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.96223999377194
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.01877345952785
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.36190494691338
+      }
+    ],
     "timestamp": 1598986800.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 122.48485611155988
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 123.36154258476401
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.15284431639336
+      }
+    ],
     "timestamp": 1598986800.0
   },
   {
@@ -3825,7 +4497,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 19.320159043581377
       }
     ],
     "timestamp": 1598986800.0
@@ -3837,7 +4509,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 10.191151987191578
       }
     ],
     "timestamp": 1598986800.0
@@ -3849,22 +4521,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 19.291720613385134
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.697766012914915
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.276170558873194
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.33292838890825
       }
     ],
     "timestamp": 1598990400.0
@@ -3876,22 +4548,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.661034596610264
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.073940163387057
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.043583975653977
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.043583975653977
       }
     ],
     "timestamp": 1598990400.0
@@ -3903,22 +4575,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 21.940231856969262
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 22.785877611025615
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.53551015762087
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.244388001123475
       }
     ],
     "timestamp": 1598990400.0
@@ -3930,17 +4602,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.49834526938992
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 118.99738311458847
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.15310038901880307
       }
     ],
     "timestamp": 1598990400.0
@@ -3952,17 +4624,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.93540387543539
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 115.70089951751793
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.9746748007169734
       }
     ],
     "timestamp": 1598990400.0
@@ -3974,17 +4646,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.76191287823211
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.4751468745367
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5235539856204734
       }
     ],
     "timestamp": 1598990400.0
@@ -3992,13 +4664,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.36190494691338
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.47727289000189
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.60026931929772
+      }
+    ],
     "timestamp": 1598990400.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.23422954162908
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.37646293795139
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.37646293795139
+      }
+    ],
     "timestamp": 1598990400.0
   },
   {
@@ -4008,7 +4712,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 19.320159043581377
       }
     ],
     "timestamp": 1598990400.0
@@ -4020,7 +4724,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.45718268685513
       }
     ],
     "timestamp": 1598990400.0
@@ -4032,22 +4736,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 16.91810813731409
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.19949417641153
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.900835360271614
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.900835360271614
       }
     ],
     "timestamp": 1598994000.0
@@ -4059,22 +4763,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.160219821314847
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.160219821314847
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.325292893512707
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.373175195789013
       }
     ],
     "timestamp": 1598994000.0
@@ -4086,22 +4790,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.244388001123475
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.244388001123475
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 25.01839711409613
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.05527889543223
       }
     ],
     "timestamp": 1598994000.0
@@ -4113,17 +4817,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.053323960936964
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 119.45245310065641
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -0.47935611012507884
       }
     ],
     "timestamp": 1598994000.0
@@ -4135,17 +4839,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.93540387543539
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 115.70089951751793
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -2.1380640677540756
       }
     ],
     "timestamp": 1598994000.0
@@ -4157,17 +4861,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.76191287823211
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.64968662686262
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5235539856204734
       }
     ],
     "timestamp": 1598994000.0
@@ -4175,13 +4879,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.552319810435435
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.552319810435435
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.552319810435435
+      }
+    ],
     "timestamp": 1598994000.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.37646293795139
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.8395179627644
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.85029536015138
+      }
+    ],
     "timestamp": 1598994000.0
   },
   {
@@ -4191,7 +4927,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 19.25209119754876
       }
     ],
     "timestamp": 1598994000.0
@@ -4203,7 +4939,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.45718268685513
       }
     ],
     "timestamp": 1598994000.0
@@ -4215,22 +4951,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.53340527377338
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.53340527377338
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.7356214835213
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.750746687783195
       }
     ],
     "timestamp": 1598997600.0
@@ -4242,22 +4978,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.373175195789013
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.373175195789013
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.373175195789013
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.373175195789013
       }
     ],
     "timestamp": 1598997600.0
@@ -4269,22 +5005,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.05527889543223
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.75479479958184
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.204257696239743
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.204257696239743
       }
     ],
     "timestamp": 1598997600.0
@@ -4296,17 +5032,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.371827539462934
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 119.36668144818528
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.06737036001953967
       }
     ],
     "timestamp": 1598997600.0
@@ -4318,17 +5054,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.93540387543539
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 115.70089951751793
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.324230747782062
       }
     ],
     "timestamp": 1598997600.0
@@ -4340,17 +5076,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.76191287823211
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 99.18830992867984
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5235539856204734
       }
     ],
     "timestamp": 1598997600.0
@@ -4358,13 +5094,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 58.552319810435435
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 57.82367788053433
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 56.87714248035018
+      }
+    ],
     "timestamp": 1598997600.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 125.01073338190027
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 125.01073338190027
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.57839069810038
+      }
+    ],
     "timestamp": 1598997600.0
   },
   {
@@ -4374,7 +5142,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 19.819172026406765
       }
     ],
     "timestamp": 1598997600.0
@@ -4386,7 +5154,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.45718268685513
       }
     ],
     "timestamp": 1598997600.0
@@ -4398,22 +5166,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 17.750746687783195
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.22837042881173
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.403404762578457
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 18.403404762578457
       }
     ],
     "timestamp": 1599001200.0
@@ -4425,22 +5193,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.20077762922797
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.158260313381078
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.257532681136375
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 23.257532681136375
       }
     ],
     "timestamp": 1599001200.0
@@ -4452,22 +5220,22 @@
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.41594842349261
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.902185166723626
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.902185166723626
       },
       {
         "unit": "celsius",
         "type": "temperature",
-        "measurement": 0
+        "measurement": 24.902185166723626
       }
     ],
     "timestamp": 1599001200.0
@@ -4479,17 +5247,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 46.371827539462934
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 119.3690128715355
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": 0.19355091330873975
       }
     ],
     "timestamp": 1599001200.0
@@ -4501,17 +5269,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 19.93540387543539
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 115.52041447311043
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -2.307954267691988
       }
     ],
     "timestamp": 1599001200.0
@@ -4523,17 +5291,17 @@
       {
         "unit": "%",
         "type": "humidity",
-        "measurement": 0
+        "measurement": 52.76191287823211
       },
       {
         "unit": "mbar",
         "type": "pressure",
-        "measurement": 0
+        "measurement": 98.58096972570289
       },
       {
         "unit": "lux",
         "type": "light",
-        "measurement": 0
+        "measurement": -1.5235539856204734
       }
     ],
     "timestamp": 1599001200.0
@@ -4541,13 +5309,45 @@
   {
     "id": "contact1",
     "location": "balcony",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 56.79861236559725
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 57.237114613747984
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 57.382644757822476
+      }
+    ],
     "timestamp": 1599001200.0
   },
   {
     "id": "contact2",
     "location": "hallway",
-    "data": [],
+    "data": [
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.21033512864884
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.21033512864884
+      },
+      {
+        "unit": "seconds",
+        "type": "contact",
+        "measurement": 124.21033512864884
+      }
+    ],
     "timestamp": 1599001200.0
   },
   {
@@ -4557,7 +5357,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 19.35292179863049
       }
     ],
     "timestamp": 1599001200.0
@@ -4569,7 +5369,7 @@
       {
         "unit": "%",
         "type": "eaqi",
-        "measurement": 0
+        "measurement": 9.45718268685513
       }
     ],
     "timestamp": 1599001200.0
