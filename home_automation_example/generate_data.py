@@ -114,17 +114,17 @@ def generate_data(
     :param devices:
     """
     hours = extract_hours(date_from, date_to)
-    current_hour = date_from.hour
-    data = []
-    for device in devices: # TODO: change this per hour, figure out the dependencies from below
-        sensor_data = []
-        for sensor in device["sensors"]:
-            # print(device["id"], sensor)
-            sensor_unit = sensors[sensor]["unit"]
-            sensor_frequency = sensors[sensor]["frequency"]
-            for hour in range(hours):
-                # print(f"{hour}, {(current_hour + hour) % 24}")
-                # TODO: determine the direction of the next sample: ↑ (1), ↓ (-1) or - (0)
+    starting_hour = date_from.hour
+    data = []  # 1 entry == 1 line in the output == device readings per hour
+    for hour in range(hours):
+        current_hour = (starting_hour + hour) % 24
+        # TODO: determine the direction of the next sample: ↑ (1), ↓ (-1) or - (0)
+        for device in devices:  # TODO: change this per hour, figure out the dependencies from below
+            sensor_data = []
+            for sensor in device["sensors"]:
+                # print(device["id"], sensor)
+                sensor_unit = sensors[sensor]["unit"]
+                sensor_frequency = sensors[sensor]["frequency"]
                 for _ in range(sensor_frequency):
                     measurement = 0
                     sensor_data.append({
@@ -132,11 +132,12 @@ def generate_data(
                         "type": sensor,
                         "measurement": measurement
                     })
-        data.append({
-            "id": device["id"],
-            "location": device["location"],
-            "data": sensor_data
-        })
+            data.append({
+                "id": device["id"],
+                "location": device["location"],
+                "data": sensor_data,
+                "timestamp": (date_from + timedelta(hours=hour)).timestamp(),
+            })
     print(hours)
     return data
 
