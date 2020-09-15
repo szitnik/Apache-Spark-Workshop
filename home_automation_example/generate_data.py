@@ -38,13 +38,13 @@ sensor_list = {  # TODO: add typical values to be more realistic
                    "https://airindex.eea.europa.eu/Map/AQI/Viewer/",
         "frequency": 1,
         "unit": "%",
-        "values": [5, 10, 20, 30],  # random, but more to the lower
+        "values": [3, 5, 8, 10, 11, 12, 15, 18, 20, 30],  # random, but more to the lower
     },
     "contact": {
         "name": "contact",
         "comment": "door open/close events, randomly occurs, 1 measure == open AND close door, "
                    "measures the time the door was opened in seconds",
-        "frequency":  -1,  # => random
+        "frequency": -1,  # => random
         "unit": "seconds",
         "values": [30, 60, 120]
     },
@@ -125,7 +125,7 @@ def generate_measurement(
     if previous_measurement:
         measurement = previous_measurement["measurement"]
     measurement += direction * random.random()
-    print(f"sensor: {sensor['name']}, direction: {direction}, measurement: {measurement:.2f}")
+    # print(f"sensor: {sensor['name']}, direction: {direction}, measurement: {measurement:.2f}")
     return {
         "measurement": measurement,
         "direction": direction
@@ -153,11 +153,11 @@ def generate_data(
             for sensor in device["sensors"]:
                 sensor_unit = sensors[sensor]["unit"]
                 sensor_frequency = sensors[sensor]["frequency"]
+                sensor_frequency = sensor_frequency if sensor_frequency > 0 else random.randint(0, 5)
                 measurement_key = f'{device["id"]}_{sensor}'
                 for _ in range(sensor_frequency):
                     previous_measurement = previous_measurements[measurement_key] if measurement_key in previous_measurements else None
                     measurement = generate_measurement(sensors[sensor], previous_measurement)
-                    print("measurement: ", measurement)
                     previous_measurements[measurement_key] = measurement
                     sensor_data.append({
                         "unit": sensor_unit,
@@ -180,5 +180,6 @@ if __name__ == '__main__':
         sensors=sensor_list,
         devices=device_list
     )
-    with open("sensor_data.json", "w") as out:
-        json.dump(data, out)
+    with open("sensor_data.txt", "w") as out:
+        lines = [json.dumps(line) for line in data]
+        print('\n'.join(lines), file=out)
