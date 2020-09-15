@@ -1,5 +1,5 @@
 from typing import Union
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import json
 import random
 
@@ -122,7 +122,7 @@ def generate_measurement(
 ):
     direction = random.choice([-1, 0, 1])
     measurement = random.choice(sensor["values"])
-    if previous_measurement:
+    if previous_measurement and not sensor["name"] == "count":
         measurement = previous_measurement["measurement"]
     measurement += direction * random.random()
     # print(f"sensor: {sensor['name']}, direction: {direction}, measurement: {measurement:.2f}")
@@ -150,6 +150,7 @@ def generate_data(
         # TODO: determine the direction of the next sample: ↑ (1), ↓ (-1) or - (0)
         for device in devices:  # TODO: change this per hour, figure out the dependencies from below
             sensor_data = []
+            device_id = device["id"]
             for sensor in device["sensors"]:
                 sensor_unit = sensors[sensor]["unit"]
                 sensor_frequency = sensors[sensor]["frequency"]
@@ -160,26 +161,27 @@ def generate_data(
                     measurement = generate_measurement(sensors[sensor], previous_measurement)
                     previous_measurements[measurement_key] = measurement
                     sensor_data.append({
+                        "device_id": device_id,
                         "unit": sensor_unit,
                         "type": sensor,
                         "measurement": measurement["measurement"],
+                        "timestamp": (date_from + timedelta(hours=hour)).timestamp(),
                     })
             data.append({
-                "id": device["id"],
+                "id": device_id,
                 "location": device["location"],
                 "data": sensor_data,
-                "timestamp": (date_from + timedelta(hours=hour)).timestamp(),
             })
     return data
 
 
 if __name__ == '__main__':
     data = generate_data(
-        date_from=datetime(2020, 9, 1, 1, 0, 0),
-        date_to=datetime(2020, 9, 2, 2, 2, 0),
+        date_from=datetime(2020, 9, 1, 1, 0, 0, tzinfo=timezone.utc),
+        date_to=datetime(2020, 9, 2, 2, 2, 0, tzinfo=timezone.utc),
         sensors=sensor_list,
         devices=device_list
     )
-    with open("sensor_data.txt", "w") as out:
+    with open("../notebooks/data/sensor_data.txt", "w") as out:
         lines = [json.dumps(line) for line in data]
         print('\n'.join(lines), file=out)
