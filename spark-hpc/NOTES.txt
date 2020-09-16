@@ -1,0 +1,11 @@
+# Check JOB status
+sacct -j [JOB_ID]
+
+# Show active-waiting JOB statuses
+squeue -u [USER_ID]
+
+# Show all jobs and specifics of one job
+scontrol show job [JOB_ID]
+
+# Cancel job
+scancel [JOB_ID]

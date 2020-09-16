@@ -5,15 +5,15 @@ set -euo pipefail
 export DOWNLOAD_SPARK=
 
 # create a new virtual environment, activate it and install all the requirements
-python3 -m venv workshop-env
-source ./workshop-env/bin/activate
+python3 -m venv spark-workshop-env
+source ./spark-workshop-env/bin/activate
 pip install -r requirements.txt
 
 
 echo "Please run the following 2 statements in your console:"
 echo "
-export PYSPARK_PYTHON="$PWD/workshop-env/bin/python"
-export PYSPARK_DRIVER_PYTHON="$PWD/workshop-env/bin/python"
+export PYSPARK_PYTHON="$PWD/spark-workshop-env/bin/python"
+export PYSPARK_DRIVER_PYTHON="$PWD/spark-workshop-env/bin/python"
 "
 
 # handle Spark installation
