@@ -1,0 +1,14 @@
+{
+  "id": "<device_id>",
+  "timestamp_ms": "timestamp of the hour of the readings",
+  "data": [
+    {
+      "comment": "sensor specific data, e.g. temperature. The data is an array because the device can have more than a single sensor",
+      "id": "<device_id>",
+      "type": "<sensor type: temperature, light, contact, humidity, air quality, motion>",
+      "measurement": "<sensor measurement>",
+      "unit": "<unit of the measurement, e.g. Celsius degrees>",
+      "timestamp_ms": "measurement timestamp"
+    }
+  ]
+}
