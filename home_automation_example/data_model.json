@@ -9,7 +9,7 @@
       "type": "<sensor type: temperature, light, contact, humidity, air quality, motion>",
       "measurement": "<sensor measurement>",
       "unit": "<unit of the measurement, e.g. Celsius degrees>",
-      "timestamp": "measurement timestamp"
+      "timestamp_ms": "measurement timestamp"
     }
   ]
 }

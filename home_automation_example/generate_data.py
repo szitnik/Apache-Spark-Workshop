@@ -3,7 +3,7 @@ from datetime import datetime, timedelta, timezone
 import json
 import random
 
-sensor_list = {  # TODO: add typical values to be more realistic
+sensor_list = {
     "temperature": {
         "name": "temperature",
         "comment": "Celsius degrees, sampled 4x per hour",
@@ -122,7 +122,7 @@ def generate_measurement(
 ):
     direction = random.choice([-1, 0, 1])
     measurement = random.choice(sensor["values"])
-    if previous_measurement and not sensor["name"] == "count":
+    if previous_measurement and not sensor["name"] == "contact":
         measurement = previous_measurement["measurement"]
     measurement += direction * random.random()
     # print(f"sensor: {sensor['name']}, direction: {direction}, measurement: {measurement:.2f}")
@@ -147,8 +147,7 @@ def generate_data(
     previous_measurements = {}  # key = id + sensor: `temp01_temperature,
     for hour in range(hours):
         current_hour = (starting_hour + hour) % 24
-        # TODO: determine the direction of the next sample: ↑ (1), ↓ (-1) or - (0)
-        for device in devices:  # TODO: change this per hour, figure out the dependencies from below
+        for device in devices:
             sensor_data = []
             device_id = device["id"]
             for sensor in device["sensors"]:
@@ -156,7 +155,7 @@ def generate_data(
                 sensor_frequency = sensors[sensor]["frequency"]
                 sensor_frequency = sensor_frequency if sensor_frequency > 0 else random.randint(0, 5)
                 measurement_key = f'{device["id"]}_{sensor}'
-                for _ in range(sensor_frequency):
+                for i in range(sensor_frequency):
                     previous_measurement = previous_measurements[measurement_key] if measurement_key in previous_measurements else None
                     measurement = generate_measurement(sensors[sensor], previous_measurement)
                     previous_measurements[measurement_key] = measurement
@@ -165,12 +164,12 @@ def generate_data(
                         "unit": sensor_unit,
                         "type": sensor,
                         "measurement": measurement["measurement"],
-                        "timestamp": (date_from + timedelta(hours=hour)).timestamp(),
+                        "timestamp_ms": (date_from + timedelta(hours=hour) + timedelta(minutes=((60/sensor_frequency) * i))).timestamp(),
                     })
             data.append({
                 "id": device_id,
-                "location": device["location"],
                 "data": sensor_data,
+                "timestamp_ms": (date_from + timedelta(hours=hour)).timestamp(),
             })
     return data
 
@@ -184,4 +183,8 @@ if __name__ == '__main__':
     )
     with open("../notebooks/data/sensor_data.txt", "w") as out:
         lines = [json.dumps(line) for line in data]
+        print('\n'.join(lines), file=out)
+    with open("../notebooks/data/device_locations.csv", "w") as out:
+        print('device_id,location', file=out)
+        lines = [f'{device["id"]},{device["location"]}'for device in device_list]
         print('\n'.join(lines), file=out)

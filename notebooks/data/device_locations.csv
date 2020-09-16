@@ -1,0 +1,11 @@
+device_id,location
+temp1,living_room
+temp2,master_bedroom
+temp3,hallway
+weather1,living_room
+weather2,bathroom
+weather3,master_bedroom
+contact1,balcony
+contact2,hallway
+air1,master_bedroom
+air2,living_room
