@@ -1,14 +1,11 @@
-# Zagon skripte
-sbatch spark-slurm.sh
+# Check JOB status
+sacct -j [JOB_ID]
 
-# Preverba stanja
-sacct -j JOB_ID
+# Show active-waiting JOB statuses
+squeue -u [USER_ID]
 
-# Prikaz svojih nalog
-squeue -u campus02
-
-# Prikaz vseh nalog in podrobnosti/ene naloge
+# Show all jobs and specifics of one job
 scontrol show job [JOB_ID]
 
-# Preklic izvajanja
-scancel JOB_ID
+# Cancel job
+scancel [JOB_ID]

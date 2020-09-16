@@ -3,6 +3,7 @@
 #SBATCH -t 00:10:00
 #SBATCH --ntasks-per-node 3
 #SBATCH --cpus-per-task 2
+#SBATCH --output=logs/slurm_stdout_err__%j.log
 
 module purge
 module load Spark/2.4.0-Hadoop-2.7-Java-1.8
